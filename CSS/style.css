@@ -18,7 +18,10 @@ html, body{
    line-height: 19px;
    font-weight: 100;
  }
-
+ h1 {
+   content: animated fadeIn;
+ }
+ 
  /* GRID */
  .container {
    margin-right: auto;
@@ -42,3 +45,4 @@ html, body{
    min-height: 1px;
    margin:0 2% 20px;
  }
+ 
