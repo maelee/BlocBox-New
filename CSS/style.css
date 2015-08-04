@@ -42,45 +42,7 @@ html, body{
    min-height: 1px;
    margin:0 2% 20px;
  }
- @media screen and (max-width: 480px) {
-   .container {
-      width: 360px;
-   }
-   #header.hero h1 {
-      font-size: 45px;
-      font-weight: normal;
-      margin: 95px 0 0;
-   }
-   #header .hero p {
-      font-size: 19px;
-      line-height: 26px;
-      font-weight: 100;
-      margin: 19px 5px;
-   }
-   #header .hero img {
-      display: none;
-   }
-   .benefits i {
-      margin: 20px;
-   }
-   .h2 {
-      margin-left: 10px;
-   }
-   .benefits p {
-      margin-left: 10px;
-      margin-right: 10px;
-   }
-   #box {
-      max-width: 275px;
-      margin-left: 25px;
-   }
-   .testimonials img {
-      margin: 20px 10px 0 30px;
-   }
-   #footer {
-      display: none;
-   }
- }
+ 
  @media (min-width: 768px) {
    .container {
      width: 750px;
