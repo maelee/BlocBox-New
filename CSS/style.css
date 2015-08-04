@@ -45,9 +45,7 @@ html, body{
    min-height: 1px;
    margin:0 2% 20px;
  }
-<<<<<<< HEAD
- 
-=======
+
  @media (min-width: 768px) {
    .container {
      width: 750px;
@@ -301,4 +299,4 @@ html, body{
    font-size:13px;
    margin-top: 30px;
  }
->>>>>>> master
+
